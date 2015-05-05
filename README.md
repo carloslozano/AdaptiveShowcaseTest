@@ -35,5 +35,5 @@ $ grunt dist
 
 ## Usage
 
-Todo :
+Todo :smile:
 
